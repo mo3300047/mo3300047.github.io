@@ -1,26 +1,9 @@
 ---
 layout: archive
-title: "Education"
-permalink: /education/
+title: "Work Experience"
+permalink: /work/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
-
-Highlights
-======
-I have about 2 years of professional experience developing projects across multiple tech stacks. Moreover, I consistently follow the Agile(Scrum), TDD, CI/CD, and DevOps practices by automating the build pipelines and integrating unit/endpoint tests into the development process. Furthermore, I am exceptionally familiar with both front & back-end development and AI/ML algorithms & tools. Lastly, I have also utilized both SQL/NoSQL databases in project production.
-
-Education
-======
-* B.S. in Computer Science, Johns Hopkins University
-  * August 2019 to May 2023
-  * Baltimore, MD
-* High School Diploma, Malden Catholic High School
-  * September 2016 to May 2019
-  * Malden, MA
 
 Work experience
 ======
