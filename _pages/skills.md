@@ -5,7 +5,6 @@ permalink: /skills/
 author_profile: true
 ---
 
-======
 * Languages: JavaScript, TypeScript, Python, Java, C/C++, C#, SQL, GraphQL, PHP, HTML/CSS
 * Frameworks: 
   * Frond-End: Redux, React.js, Angular.js, Vue.js, Next.js

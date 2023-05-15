@@ -22,5 +22,6 @@ Hobbies
 ======
 1. Golfing
 1. Fishing
+1. Gaming (CS:GO, PUBG, Zelda, etc)
 1. I am a huge fan of Real Madrid!
 1. ¡Hala Madrid!

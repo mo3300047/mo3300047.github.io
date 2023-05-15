@@ -5,7 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-======
+Below are the examples projects that I have written. Please go to my [GitHub](https://github.com/mo3300047) for more detailed projects as well as the source code.
+
 * [Out of The Nest](tinyurl.com/out-of-the-nest)
   * A full stack online forum app that users can create/view posts and leave comments/endorsements
   * Developed using MongoDB, Express.js, React.js, and Node.js
@@ -21,9 +22,6 @@ author_profile: true
 * [Space Invader Game](https://cs280fa22-homework.github.io/homework-2-mo3300047)
   * A simple game developed in JavaScript where you control a spaceship to shot down and avoid enemy targets
   * Deployed using GitHub Pages
-
-* [The Game of Pig!](https://cs280fa22-homework.github.io/homework-1-mo3300047)
-  * A jeopardy dice game in which two players race to reach 100 points
 
 * [Meme Generator](https://cs280fa22-homework.github.io/hw3-meme-gen-mo3300047)
   * A web application that randomly fetches a meme image and allows users to add texts to it

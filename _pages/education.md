@@ -5,7 +5,6 @@ permalink: /education/
 author_profile: true
 ---
 
-======
 * B.S. in Computer Science, Johns Hopkins University
   * August 2019 to May 2023
   * Baltimore, MD
