@@ -5,7 +5,6 @@ permalink: /skills/
 author_profile: true
 ---
 
-Technical Skills
 ======
 * Languages: JavaScript, TypeScript, Python, Java, C/C++, C#, SQL, GraphQL, PHP, HTML/CSS
 * Frameworks: 

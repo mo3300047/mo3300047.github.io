@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projects:
 ======
 * [Out of The Nest](tinyurl.com/out-of-the-nest)
   * A full stack online forum app that users can create/view posts and leave comments/endorsements

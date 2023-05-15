@@ -12,9 +12,11 @@ Hello! This is the personal homepage of Liyuan Guo. Feel free to scroll down or 
 
 Brief Overview
 ======
-I am currently a senior at Johns Hopkins University majoring in Computer Science. Moreover, I have about two years of professional experience developing projects across multiple tech stacks. Specifically, I have multiple previous internships and part-time job experience as a Software Engineer, Full-Stack Developer, and Data Analyst. 
+I am currently a senior at Johns Hopkins University majoring in Computer Science. 
 
-I am open to new opportunities! To learn more about my experience and skills, please navigate to the [Resume](https://mo3300047.github.io/cv/) section.
+I have about 2 years of professional experience developing projects across multiple tech stacks. Moreover, I consistently follow the Agile(Scrum), TDD, CI/CD, and DevOps practices by automating the build pipelines and integrating unit/endpoint tests into the development process. Furthermore, I am exceptionally familiar with both front & back-end development and AI/ML algorithms & tools. Lastly, I have also utilized both SQL/NoSQL databases in project production.
+
+I am open to new opportunities! To learn more about my experience and skills, please go to the relevant sections in the navigation bar. If you are interested, my contact info is included in the side bar!
 
 Hobbies
 ======

@@ -5,7 +5,6 @@ permalink: /work/
 author_profile: true
 ---
 
-Work experience
 ======
 * Onchain - Software Engineer Intern
   * Duration: May 2022 to December 2022
