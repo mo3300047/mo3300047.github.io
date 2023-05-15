@@ -25,3 +25,9 @@ author_profile: true
   * Designed the Figma wireframe for the app and collaborated with 5 developers to implement the schedule comparison functionality. 
   * Participated in the development of back-end Django models that support PostgreSQL queries and the front-end React/Redux components.
   * Optimized the course searching algorithm with Django backend and reduced unnecessary API calls by 60%.
+
+* M7 Healthcare Accelerator - Data Analyst Intern
+  * Duration: May 2020 - September 2020
+  * Location: Burlingame, CA
+  * Wrote assertions and triggers for the database (MariaDB) and wrote SQL queries to store and fetch relevant data regarding start-ups.
+  * Exported relevant data into Excel and presented the results to the management with investment recommendations.
