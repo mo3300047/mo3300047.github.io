@@ -1,0 +1,23 @@
+/* Shared typography and responsive refinements for the personal pages. */
+.page__content {
+  line-height: 1.75;
+  overflow-wrap: break-word;
+  h2 { margin-top: 2em; padding-bottom: .4em; border-bottom: 1px solid #e6e8eb; }
+  li { margin-bottom: .55em; }
+  a { text-underline-offset: .18em; }
+}
+.page__title { line-height: 1.25; }
+.author__bio { line-height: 1.6; }
+a:focus-visible, button:focus-visible { outline: 2px solid #2366a8; outline-offset: 4px; }
+@media (max-width: 767px) {
+  .page__content { font-size: 1rem; }
+  .page__title { font-size: 1.7em; }
+  .masthead__menu-item { font-size: .9rem; }
+}
+
+.navicon { display: block; }
+
+.greedy-nav .visible-links > li + li { padding-left: 1rem; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}

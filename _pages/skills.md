@@ -1,18 +1,35 @@
 ---
-layout: archive
+layout: single
 title: "Skills"
 permalink: /skills/
+excerpt: "Programming languages, web and mobile frameworks, data and ML tools, and cloud delivery skills."
 author_profile: true
 ---
 
-* Languages: JavaScript, TypeScript, Python, Java, C/C++, C#, SQL, GraphQL, PHP, HTML/CSS
-* Frameworks: 
-  * Frond-End: Redux, React.js, Angular.js, Vue.js, Next.js
-  * Back-End: Mongoose, Express, Node.js, Django, Flask, ASP.NET
-  * Testing: JUnit, Vitest, Jest, Cypress
-  * Machine Learning: TensorFlow, PyTorch
-* Tools: 
-  * General: Git, Docker, Visual Studio, Jupyter Notebook,Vercel, Heroku, AWS, CUDA, Google Colab
-  * Data: FireBase, MongoDB, MariaDB, MySQL, Microsoft SQL Server, Tableau, PostgreSQL
-* Communications & Office:
-  * Slack, Discord, MicrosoftS Word/Excel/PowerPoint
+## Programming languages
+
+Go, TypeScript, JavaScript, Python, Java, C/C++, SQL
+
+## Web & mobile engineering
+
+React, React Native, Node.js, Django, Gin, GORM
+
+REST APIs, SQL transactions, JWT/OTP authentication, admin authorization, and mobile session management
+
+## Data & machine learning
+
+PostgreSQL, MongoDB, vector retrieval, PyTorch, TensorFlow
+
+Financial text analysis, class imbalance handling, and LLM-based vulnerability detection
+
+## Cloud & delivery
+
+AWS (ECS, S3, CloudFront), Docker, Git, Linux, CI/CD
+
+Automated testing with Jest and Cypress
+
+## Spoken languages
+
+- **Mandarin:** Native
+- **English:** Fluent
+- **Cantonese:** Intermediate listening; beginner speaking

@@ -1,27 +1,36 @@
 ---
+layout: single
+title: "Mike Liyuan Guo"
 permalink: /
-title: "Personal Website"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+excerpt: "Full-stack and mobile engineer, IT Department Manager at Merit Asset Management, and HKUST and Johns Hopkins graduate."
+redirect_from:
   - /about/
   - /about.html
+author_profile: true
 ---
 
-Hello! This is the personal homepage of Liyuan Guo. Feel free to scroll down or click on one of the links in the navigation bar above to view a specific section about me.
+I’m an IT Department Manager at **Merit Asset Management**, where I build software across backend APIs, web platforms, mobile apps, and cloud infrastructure.
 
-Brief Overview
-======
+My work combines full-stack engineering with a background in machine learning and economics. I hold an MSc in Big Data Technology from the Hong Kong University of Science and Technology and a BS in Computer Science & Economics from Johns Hopkins University.
 
-I graduated from Johns Hopkins University with a Bachelor's degree, double majoring in Computer Science and Economics. Currently, I am pursuing a Master's degree in Big Data Technology at the Hong Kong University of Science and Technology.
+## What I build
 
-I have 1.5 years of professional experience post-graduation, working on projects across various tech stacks. During my undergraduate years, I completed three internships in the United States and one remote part-time role for a Shanghai-based blockchain company.
+At Merit, I built a **Go REST API and React/TypeScript admin platform** from scratch in approximately three months, covering client management, orders, financial ledgers, and product pricing. I also independently developed a **React Native portfolio app**, with iOS and Android releases.
 
-I am open to new opportunities! Feel free to explore my experience and skills in the relevant sections. My contact information is available in the sidebar if you'd like to connect.
+I focus on the details that make these systems reliable: transaction-safe imports, authentication and authorization, consistent mobile sessions, and authenticated document previews. Deployment spans AWS ECS, S3, and CloudFront.
 
-Hobbies
-======
-1. Golf
-1. Tennis
-1. Gaming
-1. ¡Hala Madrid!
+## Engineering & research
+
+Previously, I developed robot monitoring, remote-update, and diagnostic tools at MicroPort. My earlier internships covered financial text analysis, vector retrieval, course planning, and full-stack development.
+
+My research includes LLM-based smart contract security and autonomous endoscope navigation. I am a co-first author of a [SemEval 2025 paper](https://aclanthology.org/2025.semeval-1.200/) on class imbalance and focal loss.
+
+[Explore my experience]({{ '/work/' | relative_url }}) · [View projects and research]({{ '/projects/' | relative_url }})
+
+## Beyond work
+
+I enjoy golf, tennis, gaming, and following Real Madrid. ¡Hala Madrid!
+
+## Get in touch
+
+[Email](mailto:lguo21@alumni.jh.edu) · [LinkedIn](https://www.linkedin.com/in/liyuan-guo/) · [GitHub](https://github.com/mo3300047)

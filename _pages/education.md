@@ -1,17 +1,22 @@
 ---
-layout: archive
+layout: single
 title: "Education"
 permalink: /education/
+excerpt: "Education at HKUST and Johns Hopkins University, plus additional AI training."
 author_profile: true
 ---
-* Master of Science in Big Data Technology, Hong Kong University of Science and Technology
-  * August 2024 to May 2025
-  * Clear Water Bay, Hong Kong
 
-* Bachelor of Science in Computer Science & Economics, Johns Hopkins University
-  * August 2019 to May 2023
-  * Baltimore, MD
+## Hong Kong University of Science and Technology
 
-* High School Diploma, Malden Catholic High School
-  * September 2016 to May 2019
-  * Malden, MA
+**Master of Science in Big Data Technology**<br>
+August 2024–June 2025 · Hong Kong
+
+## Johns Hopkins University
+
+**Bachelor of Science in Computer Science & Economics**<br>
+August 2019–June 2023 · United States
+
+## Additional training
+
+**NVIDIA Academy — AI for All: From Basics to GenAI Practice**<br>
+Completed January 2025
